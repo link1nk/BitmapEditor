@@ -7,7 +7,7 @@ int main(void)
 
 	Bitmap::Bitmap bitmap{ "unsort.bmp" };
 
-	// ....
+	// ........
 
 	bitmap.Write("sort.bmp");
 }
